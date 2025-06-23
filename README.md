@@ -76,19 +76,12 @@ classDiagram
     Animal <|-- Cachorro
 ```
 
-## Ferramentas para Melhorar seus Diagramas
 
-1. **Mermaid Live Editor** - Editor online para testar seus diagramas
-2. **VS Code com extensão Mermaid** - Visualização em tempo real
-3. **Mermaid CLI** - Para gerar imagens dos seus diagramas
-
-Lembre-se que a perfeição vem com a prática - comece com diagramas simples e vá adicionando complexidade gradualmente conforme domina a sintaxe.
 
 
 
 # Diagramas Mermaid Avançados: Técnicas Profissionais
 
-Se você quer ir muito além do básico, aqui estão técnicas avançadas para criar diagramas Mermaid verdadeiramente impressionantes:
 
 ## 1. Diagramas de Arquitetura Complexos
 
@@ -272,28 +265,6 @@ graph TD
     linkStyle 1 stroke:#a00,stroke-width:2px,stroke-dasharray:5
 ```
 
-## Ferramentas Profissionais para Nível Avançado:
-
-1. **Mermaid Config Editor** - Para ajustes finos de temas
-2. **PlantUML + Mermaid** - Combine as duas linguagens
-3. **Custom Plugins** - Crie seus próprios elementos gráficos
-4. **GitHub Actions** - Gere diagramas automaticamente na documentação
-
-Para ir ainda mais longe, estude:
-- Sintaxe avançada de temas (themeVariables)
-- Configuração de direcionais (TB, LR, RL, BT)
-- Uso de JSON para definir diagramas complexos
-- Integração com ferramentas como D3.js para interatividade
-
-Quer algo ainda mais específico? Posso mostrar exemplos de:
-- Diagramas de rede Kubernetes
-- Arquiteturas hexagonais
-- Fluxos de machine learning
-- Sistemas distribuídos com mensageria
-
-# Diagramas Mermaid Avançados para Arquiteturas Complexas
-
-Aqui estão exemplos profissionais dos diagramas que você solicitou:
 
 ## 1. Diagrama de Rede Kubernetes (AKS/EKS)
 
@@ -463,11 +434,7 @@ graph LR
 5. **Notação Especial** - Ícones e símbolos para diferentes tipos de serviços
 6. **Cross-Linking** - Conexões entre subgrafos distintos
 
-Quer que eu detalhe algum aspecto específico dessas arquiteturas ou mostre variações mais complexas de algum desses modelos?
 
-
-
-Entendi! Você quer diagramas com um visual mais polido, estilizado e próximo de um desenho técnico profissional. Vou criar versões aprimoradas com:
 
 1. **Formas mais elaboradas** (não apenas retângulos básicos)  
 2. **Ícones e elementos visuais ricos**  
