@@ -1,3 +1,6 @@
+![Equação Zeta](https://latex.codecogs.com/svg.image?\mathcal{P}_{\sim}^{s}=T&plus;T^*&plus;c(s)I&plus;\int_{\gamma}K(s,w)\frac{\zeta(w)}{\zeta'(w)}dw)
+
+
 
 
 ## 1. Use Temas e Estilização
